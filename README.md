@@ -26,7 +26,7 @@ page|文本型|页码，该字段暂时无效,可以随便传，但是必须要�
 ' {"code":"0","data":[{"type":"buy","pair":"SWT/CNY+jGa9J9TkqtBcUoHe2zqhVFFbgUVED6o9or","price":"0.001000","amount":"1.000000","sequence":4464,"passive":false},{"type":"buy","pair":"SWT/CNY+jGa9J9TkqtBcUoHe2zqhVFFbgUVED6o9or","price":"0.004000","amount":"300000.000000","sequence":4557,"passive":false}],"msg":"获得挂单列表成功","isActive":true}
 ```
 
-###查询历史交易记录
+ ###查询历史交易记录
 参数|类型|是否为空|备注
 ---|:--:|:--:|---:
 exHost|文本型| | exHost
