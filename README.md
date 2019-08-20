@@ -426,8 +426,11 @@ url ＝ exHost ＋ “/exchange/detail/” ＋ hash
 ```
 
 ###网页访问_DELETE
+
 参数|类型|备注
+
 ---|:--:|---:
+
 网址|文本型|完整的网页地址,必须包含http://或者https://
 访问方式|整数型|0=GET 1=POST 2=HEAD
 提交信息|文本型|"POST"专用
@@ -461,6 +464,7 @@ url ＝ exHost ＋ “/exchange/detail/” ＋ hash
 附加协议头 ＝ “Accept: */*”
 ```
 ###局_WinHttp.方法 (“Send”, 提交信息)
+
 ```
 局_网页数据 ＝ 局_WinHttp.读属性 (“ResponseBody”, ).取字节集 ()
 返回协议头 ＝ 局_WinHttp.读文本属性 (“GetallResponseHeaders”, )
