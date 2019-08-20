@@ -21,6 +21,7 @@ PFP08 JCC_RPC_易语言开发实现](https://github.com/JCCDex/ProjectFundingPro
 exHost|文本型|exHost
 address|文本型|钱包地址
 page|文本型|页码，该字段暂时无效,可以随便传，但是必须要有
+
 返回信息
 ```
 ' {"code":"0","data":[{"type":"buy","pair":"SWT/CNY+jGa9J9TkqtBcUoHe2zqhVFFbgUVED6o9or","price":"0.001000","amount":"1.000000","sequence":4464,"passive":false},{"type":"buy","pair":"SWT/CNY+jGa9J9TkqtBcUoHe2zqhVFFbgUVED6o9or","price":"0.004000","amount":"300000.000000","sequence":4557,"passive":false}],"msg":"获得挂单列表成功","isActive":true}
