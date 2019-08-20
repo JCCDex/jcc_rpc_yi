@@ -15,9 +15,7 @@ Telegram: https://t.me/moacblockchain
 PFP08 JCC_RPC_易语言开发实现](https://github.com/JCCDex/ProjectFundingProposal/issues/9)
 
 
-###查询当前委托
-
-
+#####查询当前委托
 
 参数|类型|备注
 ---|:--:|---:
