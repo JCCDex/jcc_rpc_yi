@@ -459,7 +459,6 @@ url ＝ exHost ＋ “/exchange/detail/” ＋ hash
 
 参数|类型|备注
 ---|:--:|---:
-
 网址|文本型|完整的网页地址,必须包含http://或者https://
 访问方式|整数型|0=GET 1=POST 2=HEAD
 提交信息|文本型|"POST"专用
